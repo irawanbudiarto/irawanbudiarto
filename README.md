@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @irawanbudiarto
-- 👀 I’m interested in mobile developer
-- 🌱 I’m currently learning react native
+- 👀 I’m interested as a fullstack developer
+- 🌱 I currently work as a mobile developer (react native)
 - 💞️ I’m looking to collaborate on best practices in technology development
 - 📫 How to reach me on https://www.linkedin.com/in/irawan-budiarto-95463a132/
 
